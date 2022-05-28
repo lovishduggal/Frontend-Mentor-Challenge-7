@@ -1,2 +1,3 @@
 # Frontend-Mentor-Challenge-6-
-fylo-landing-page-with-two-column-layout-master Build With HML5 &amp; CSS
+fylo-landing-page-with-two-column-layout-master 
+## Build With Basic HTML5 AND CSS (INCLUDING Flex-box amd CSS Grid
